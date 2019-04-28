@@ -44,7 +44,7 @@ p {
 
 .downloadknap {
   /* Style buttons */
-  background-color: DodgerBlue;
+  background-color: #0000d1;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -54,7 +54,7 @@ p {
 
 /* Darker background on mouse-over */
 .downloadknap:hover {
-  background-color: RoyalBlue;
+  background-color: #000070;
 }
 
 
