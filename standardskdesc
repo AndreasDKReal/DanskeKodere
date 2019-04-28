@@ -12,12 +12,25 @@
         <div class="topnav">
             <a href="../DanskeKodere/index.html">Hjem</a>
             <a href="../DanskeKodere/omos.html">Om os</a>
-            <a class="active" href="">Kontakt</a>
+            <a href="../DanskeKodere/kontakt.html">Kontakt</a>
 
         </div>
 
         <div style="text-align: center;">
+
+            <h1 class="h1">SKRIPT</h1>
+            <br>
+            <br>
+
+            <h2 class="h2"><b>Beskrivelse af skriptet:</b></p>
+            <p>Lorem ipsum</p>
             
+            <br>
+            <br>
+            
+            <a href="../DanskeKodere/skripts/tryllestav.zip">
+                <button class="button">Download her</button>
+            </a>
         </div>
 
 
